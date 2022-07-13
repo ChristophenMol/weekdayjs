@@ -1,3 +1,5 @@
+let daynow = 3;
+let day;
 
 switch (day) {
 
